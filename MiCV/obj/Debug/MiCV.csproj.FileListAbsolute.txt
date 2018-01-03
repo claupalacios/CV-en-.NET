@@ -1,0 +1,12 @@
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\bin\Debug\MiCV.exe.config
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\bin\Debug\MiCV.exe
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\bin\Debug\MiCV.pdb
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.csprojResolveAssemblyReference.cache
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.Properties.Resources.resources
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.csproj.GenerateResource.Cache
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.exe
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.pdb
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.DatosPersonales.resources
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.Principal.resources
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.Conocimientos.resources
+C:\Users\Geremi\Desktop\cv\MiCV\MiCV\obj\Debug\MiCV.Formacion.resources
